@@ -1,0 +1,20 @@
+* {
+    background-color: #282C34;
+    font-family: "Times New Roman", serif, sans-serif;
+}
+
+.title {
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+body {
+    color: #E2656E; 
+}
+
+a:link {
+    text-decoration: none;
+    color: #E2656E; 
+    white-space: pre;
+}
