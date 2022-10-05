@@ -3,12 +3,6 @@
     font-family: "Times New Roman", serif, sans-serif;
 }
 
-.title {
-    font-size: 32px;
-    text-align: center;
-    font-weight: bold;
-}
-
 body {
     color: #E2656E; 
 }
@@ -17,4 +11,26 @@ a:link {
     text-decoration: none;
     color: #E2656E; 
     white-space: pre;
+}
+
+.title {
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.container {
+    margin-right: 35px;
+}
+
+.links-list a {
+    background-color: #2D4156;
+    width: 340px;
+    margin: 0em 0.5em;
+    font-size: 32px;
+    display: inline-block;
+}
+
+.links-list a:hover {
+    color: #fff;
 }
